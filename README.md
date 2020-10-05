@@ -40,7 +40,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hololens AR Fire Escape Demo](https://ajakacky.com/beginning/)
+- [Non-Euclidean Game Engine](https://ajakacky.com/development/noneuclidgame/)
+- [Hololens AR Fire Escape Demo](https://ajakacky.com/robotics/beginning/)
 <!-- BLOG-POST-LIST:END -->
 </br>
 </br>
