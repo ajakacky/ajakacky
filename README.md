@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Austin Jakacky](https://www.ajakacky.com)!
+### Hi there 👋 I'm [Austin Jakacky](https://ajakacky.com)!
 
 ## I am an AI Software Developer and a Robotics enthusiast!
 - 🔭 I’m currently working on creating a Non-Euclidean Game Engine
@@ -7,6 +7,11 @@
 - 🤔 I’m looking for help with Web Development
 - 💬 Ask me about Robotics and Python Programming
 - ⚡ Fun fact: I love to mountain bike and longboard!
+
+---
+### Connect with Me:
+[<img align="left" alt="ajakacky.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/glove.svg" />][mywebsite]
+[<img align="left" alt="ajakacky" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ---
 ### Languages and Tools:
@@ -23,3 +28,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][mywebsite]
 
 [mywebsite]: https://ajakacky.com
+[linkedin]: https://www.linkedin.com/in/austinjakacky/
+
+---
+### 
