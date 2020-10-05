@@ -8,7 +8,7 @@
 - 💬 Ask me about Robotics and Python Programming
 - ⚡ Fun fact: I love to mountain bike and longboard!
 
-===
+---
 ### Connect with Me:
 [<img align="left" alt="ajakacky.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][mywebsite]
 [<img align="left" alt="ajakacky" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -31,6 +31,7 @@
 [mywebsite]: https://ajakacky.com
 [linkedin]: https://www.linkedin.com/in/austinjakacky/
 <br/>
+---
 
 ### 📕 Latest Blog Posts
 
@@ -39,6 +40,7 @@
 </br>
 </br>
 
+---
 <details>
     <summary>:zap: Recent GitHub Activity</summary>
 
