@@ -31,6 +31,7 @@
 [linkedin]: https://www.linkedin.com/in/austinjakacky/
 
 <br />
+<br />
 
 <details>
     <summary>:zap: Recent GitHub Activity</summary>
