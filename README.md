@@ -36,6 +36,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [First Project](http://ajakacky.com/beginning/)
 <!-- BLOG-POST-LIST:END -->
 </br>
 </br>
