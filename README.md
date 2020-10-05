@@ -10,7 +10,7 @@
 
 ---
 ### Connect with Me:
-[<img align="left" alt="ajakacky.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/glove.svg" />][mywebsite]
+[<img align="left" alt="ajakacky.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][mywebsite]
 [<img align="left" alt="ajakacky" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ---
