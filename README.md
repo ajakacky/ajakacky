@@ -40,7 +40,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [16-bit Breadboard Computer](https://ajakacky.com/development/computer/)
 - [Non-Euclidean Game Engine](https://ajakacky.com/development/noneuclidgame/)
+- [Python Graphics Engine](https://ajakacky.com/development/pythongrapics/)
 - [Hololens AR Fire Escape Demo](https://ajakacky.com/robotics/beginning/)
 <!-- BLOG-POST-LIST:END -->
 </br>
